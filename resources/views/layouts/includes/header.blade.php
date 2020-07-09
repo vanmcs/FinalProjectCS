@@ -5,7 +5,7 @@
 				<a href="#" data-toggle="modal" data-target="#myModal88" styel="display:inline-block"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
 			</div>
 			<div class="w3l_logo">
-				<h1><a href="{{ route('index') }}">Electronic Store<span>Your stores. Your place.</span></a></h1>
+				<h1><a href="{{ route('index') }}">Aura Electronic<span>Your stores. Your place.</span></a></h1>
 			</div>
 			<div class="search">
 				<input class="search_box" type="checkbox" id="search_box">
