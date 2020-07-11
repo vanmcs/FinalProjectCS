@@ -38,11 +38,11 @@
 								<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 								  <div class="panel-body panel_text">
 									<ul>
-										<li><a href="products.html">Mobiles</a></li>
-										<li><a href="products1.html">Laptop</a></li>
-										<li><a href="products2.html">Tv</a></li>
-										<li><a href="products.html">Wearables</a></li>
-										<li><a href="products2.html">Refrigerator</a></li>
+									<li><a href="{{ route('products') }}">Mobile Phones</a></li>
+									<li><a href="{{ route('products1') }}">Laptop</a></li>
+									<li><a href="{{ route('products2') }}">Tv</a></li>
+									<li><a href="{{ route('products1') }}">Wearables <span>New</span></a></li>
+									<li><a href="{{ route('products2') }}">Grinders</a></li>
 									</ul>
 								  </div>
 								</div>
